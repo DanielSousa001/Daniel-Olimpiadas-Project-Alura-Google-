@@ -1,5 +1,9 @@
 ## Exemplo de máquina de buscar atletas - - imersão Dev com Google Gemini
 
+![Captura de tela 2024-09-07 011602](https://github.com/user-attachments/assets/20fd2f94-4933-4fa1-a59d-177d168339bb)
+
+
+
 O que essa aplicação faz?
 
 Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta favorito ou sobre uma modalidade específica. Essa aplicação é a sua nova melhor amiga! Ela te ajuda a encontrar todas as informações que você precisa de forma rápida e fácil.
