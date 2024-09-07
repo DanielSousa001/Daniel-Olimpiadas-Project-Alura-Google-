@@ -1,4 +1,4 @@
-## Exemplo de máquina de buscar atletas!
+## Exemplo de máquina de buscar atletas - - imersão Dev com Google Gemini
 
 O que essa aplicação faz?
 
@@ -7,7 +7,7 @@ Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta
 Como ela funciona?
 
 Digite e pesquise: Você digita o nome do atleta ou esporte que você quer encontrar na caixinha de pesquisa.
-Mágica acontece: A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
+Mágica acontece: A aplicação vasculha um banco de dados gigante (que está no arquivo 'dados.js') e procura por tudo que tenha a ver com o que você digitou.
 Resultados na tela: Se a aplicação encontrar algo, ela mostra pra você um card com o nome do atleta, uma breve descrição e um link para saber mais. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
 Tecnologias usadas:
 
@@ -27,4 +27,6 @@ Observações:
 
 Dados: Os dados dos atletas estão no arquivo dados.js. Você pode adicionar mais dados aí se quiser.
 Design: O design da página está no arquivo style.css. Se você quiser mudar as cores ou a fonte, é só editar esse arquivo.
-Funcionalidades: A lógica da pesquisa está no arquivo app.js.
+Funcionalidades: A lógica da pesquisa está no arquivo app.js
+
+:)
